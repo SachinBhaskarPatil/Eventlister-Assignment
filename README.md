@@ -22,7 +22,7 @@ A reusable component that represents a single event. It includes styling using M
 
 ## Setup
 
-1. Clone the repository: `git clone [https://github.com/your-username/event-listing-app.git](https://github.com/SachinBhaskarPatil/Eventlister-Assignment)`
+1. Clone the repository: `git clone https://github.com/SachinBhaskarPatil/Eventlister-Assignment`
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
