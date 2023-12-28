@@ -1,0 +1,110 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "React Interns Event",
+      "dateTime": "2023-12-14T10:00:00",
+      "location": "React Hall",
+      "description": "A community event for all React interns"
+    },
+    {
+      "id": 2,
+      "name": "NodeJS",
+      "dateTime": "2023-12-15T18:30:00",
+      "location": "Backend intern’s hall",
+      "description": "A place for all backend interns to come together"
+    },
+    {
+      "id": 3,
+      "name": "Vue.js Workshop",
+      "dateTime": "2023-12-27T14:00:00",
+      "location": "Vue.js Room",
+      "description": "Hands-on workshop on Vue.js for developers"
+    },
+    {
+      "id": 4,
+      "name": "Angular Conference",
+      "dateTime": "2023-12-31T09:45:00",
+      "location": "Angular Auditorium",
+      "description": "International conference on the latest in Angular development"
+    },
+    {
+      "id": 5,
+      "name": "JavaScript Meetup",
+      "dateTime": "2023-12-22T19:00:00",
+      "location": "Tech Hub",
+      "description": "Monthly meetup for JavaScript enthusiasts"
+    },
+    {
+      "id": 6,
+      "name": "Full-stack Bootcamp",
+      "dateTime": "2024-01-05T08:00:00",
+      "location": "Coding Academy",
+      "description": "Intensive full-stack development bootcamp"
+    },
+    {
+      "id": 7,
+      "name": "DevOps Summit",
+      "dateTime": "2024-01-15T13:30:00",
+      "location": "DevOps Center",
+      "description": "Summit on the latest in DevOps practices and technologies"
+    },
+    {
+      "id": 8,
+      "name": "Mobile App Development Workshop",
+      "dateTime": "2023-12-27T15:30:00",
+      "location": "Tech Hub",
+      "description": "Learn the essentials of mobile app development"
+    },
+    {
+      "id": 9,
+      "name": "Data Science Hackathon",
+      "dateTime": "2023-12-28T09:00:00",
+      "location": "Data Science Lab",
+      "description": "Compete in a hackathon focused on data science challenges"
+    },
+    {
+      "id": 10,
+      "name": "UI/UX Design Seminar",
+      "dateTime": "2024-01-02T14:30:00",
+      "location": "Design Studio",
+      "description": "Explore the latest trends in UI/UX design"
+    },
+    {
+      "id": 11,
+      "name": "Cloud Computing Workshop",
+      "dateTime": "2024-01-08T11:00:00",
+      "location": "Cloud Lab",
+      "description": "Hands-on workshop on cloud computing technologies"
+    },
+    {
+      "id": 12,
+      "name": "Python Programming Bootcamp",
+      "dateTime": "2024-01-12T09:00:00",
+      "location": "Coding Academy",
+      "description": "Intensive bootcamp for mastering Python programming"
+    },
+    {
+      "id": 13,
+      "name": "Blockchain Summit",
+      "dateTime": "2023-12-28T14:00:00",
+      "location": "Blockchain Center",
+      "description": "Explore the applications and advancements in blockchain technology"
+    },
+    {
+      "id": 14,
+      "name": "Cybersecurity Conference",
+      "dateTime": "2024-01-25T10:30:00",
+      "location": "Security Auditorium",
+      "description": "Conference on the latest in cybersecurity practices and solutions"
+    },
+    {
+      "id": 15,
+      "name": "Artificial Intelligence Symposium",
+      "dateTime": "2024-02-01T13:00:00",
+      "location": "AI Lab",
+      "description": "Symposium on cutting-edge developments in artificial intelligence"
+    }
+   
+  ]
+}
